@@ -14,7 +14,7 @@ Combining python coding and statistical concepts and applying into analysis of f
 #### Extreme Risk Estimation
 [Github](https://github.com/vytautas-fin/Python-and-Statistics-for-Financial-Analysis/blob/master/extreme_risk_estimates.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/vytautas-fin/Python-and-Statistics-for-Financial-Analysis/blob/master/extreme_risk_estimates.ipynb)
 
-The purpose of this notebook is to investigate asset return deviations from normality. Most asset returns are not normally distributed. Assuming that they are normally distributed comes with a big cost. In terms of generality, it's a very severe simplifying assumption, especially because those deviation from normality more often than not, can be pretty severe.
+The purpose of this notebook is to investigate asset return deviations from normality. Most asset returns are not normally distributed. Assuming normality can lead to a big downfall. In terms of generality, it's a very serious simplifying assumption, especially because those deviations from normality, more often than not, can be pretty severe.
 
 **Key words**: Jarque-Bera test, Maximum Drawdown, Semi-deviation, VaR, CVaR, Parametric Gaussian VaR with a Cornish-Fisher Modification.
 
