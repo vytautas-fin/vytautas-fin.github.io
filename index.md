@@ -16,7 +16,7 @@ Combining python coding and statistical concepts and applying into analysis of f
 
 The purpose of this notebook is to investigate asset return deviations from normality. Most asset returns are not normally distributed. Assuming normality can lead to a big downfall. In terms of generality, it's a very serious simplifying assumption, especially because those deviations from normality, more often than not, can be pretty severe.
 
-**Key words**: Jarque-Bera test, Maximum Drawdown, Semi-deviation, VaR, CVaR, Parametric Gaussian VaR with a Cornish-Fisher Modification.
+*Key words*: Jarque-Bera test, Maximum Drawdown, Semi-deviation, VaR, CVaR, Parametric Gaussian VaR with a Cornish-Fisher Modification.
 
 ---
 #### Signal based trading strategy using regression analysis
