@@ -10,6 +10,19 @@ Combining python coding and statistical concepts and applying into analysis of f
 
 <img src="images/Financial_analysis_thumbnail.jpg?raw=true"/>
 
+---
+#### Extreme Risk Estimation
+[Github](https://github.com/vytautas-fin/Python-and-Statistics-for-Financial-Analysis/blob/master/extreme_risk_estimates.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/vytautas-fin/Python-and-Statistics-for-Financial-Analysis/blob/master/extreme_risk_estimates.ipynb)
+
+The purpose of this notebook is to investigate asset return deviations from normality. Most asset returns are not normally distributed. Assuming that they are normally distributed comes with a big cost. In terms of generality, it's a very severe simplifying assumption, especially because those deviation from normality more often than not, can be pretty severe.
+
+**Key words**: Jarque-Bera test, Maximum Drawdown, Semi-deviation, VaR, CVaR, Parametric Gaussian VaR with a Cornish-Fisher Modification.
+
+---
+#### Signal based trading strategy using regression analysis
+[Github](https://github.com/vytautas-fin/Python-and-Statistics-for-Financial-Analysis/blob/master/signal_based_trading_strategy_using_regression.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/vytautas-fin/Python-and-Statistics-for-Financial-Analysis/blob/master/signal_based_trading_strategy_using_regression.ipynb)
+
+The second-most popular fund on the planet is known as SPY. It invests in the U.S. stock market, specifically the entire S&P 500 index. Notebook focuses on building a trading model for SPY based on historical data from different stock markets.
 
 ---
 #### Single Stock Analysis
@@ -22,12 +35,6 @@ Simple notebook that touches upon usage of log returns in measuring the risk of 
 [Github](https://github.com/vytautas-fin/Python-and-Statistics-for-Financial-Analysis/blob/master/linear_regression_diagnostics.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/vytautas-fin/Python-and-Statistics-for-Financial-Analysis/blob/master/linear_regression_diagnostics.ipynb)
 
 Exploring association between two random variances using statistical & data visualization tools. Simple linear regression model, model diagnostics.
-
----
-#### Signal based trading strategy using regression analysis
-[Github](https://github.com/vytautas-fin/Python-and-Statistics-for-Financial-Analysis/blob/master/signal_based_trading_strategy_using_regression.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/vytautas-fin/Python-and-Statistics-for-Financial-Analysis/blob/master/signal_based_trading_strategy_using_regression.ipynb)
-
-The second-most popular fund on the planet is known as SPY. It invests in the U.S. stock market, specifically the entire S&P 500 index. Notebook focuses on building a trading model for SPY based on historical data from different stock markets.
 
 ---
 
