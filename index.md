@@ -11,6 +11,14 @@ Combining python coding and statistical concepts and applying into analysis of f
 <img src="images/Financial_analysis_thumbnail.jpg?raw=true"/>
 
 ---
+#### Constant Proportion Portfolio Insurance (CPPI) Strategy
+[Github](https://github.com/vytautas-fin/Python-and-Statistics-for-Financial-Analysis/blob/master/cppi_insurance_strategy.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/vytautas-fin/Python-and-Statistics-for-Financial-Analysis/blob/master/cppi_insurance_strategy.ipynb)
+
+Constant-proportion portfolio insurance (CPPI) is an asset allocation strategy with a focus on dynamic risk-control. It is a dynamic hedging strategy suited to reduce the downside risk.
+
+*Key words: Asset Allocation, Diversification, Downside Risk, Insurance, Hedging*
+
+---
 #### Portfolio Optimization - Efficient Frontier & Markowitz
 [Github](https://github.com/vytautas-fin/Python-and-Statistics-for-Financial-Analysis/blob/master/efficient_frontier.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/vytautas-fin/Python-and-Statistics-for-Financial-Analysis/blob/master/efficient_frontier.ipynb)
 
