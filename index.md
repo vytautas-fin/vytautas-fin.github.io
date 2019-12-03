@@ -11,12 +11,12 @@ Combining python coding and statistical concepts and applying into analysis of f
 <img src="images/Financial_analysis_thumbnail.jpg?raw=true"/>
 
 ---
-#### Efficient Frontier
+#### Portfolio Optimization - Efficient Frontier & Markowitz
 [Github](https://github.com/vytautas-fin/Python-and-Statistics-for-Financial-Analysis/blob/master/efficient_frontier.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/vytautas-fin/Python-and-Statistics-for-Financial-Analysis/blob/master/efficient_frontier.ipynb)
 
 The Only Free Lunch in Finance is Diversification. The objective of this notebook is to compute the efficient frontier given a set of expected returns, volatilities (or variances) and correlations (or covariances). The efficient frontier represents the portfolios that offer the lowest volatility for a given level of return (or highest expected return for a given level of volatility). We also touch upon pitfalls of Markowitz analysis and why it is not used in practice.
 
-*Key words: Diversification, Efficient Frontier, Markowitz analysis, Maximum Sharpe Ratio portfolio, Global Minimum Volatility portfolio, Equal Weights portfolio.*
+*Key words: Modern Portfolio Theory, Diversification, Efficient Frontier, Markowitz analysis, Mean-Variance analysis, Maximum Sharpe Ratio portfolio, Global Minimum Volatility portfolio, Equal Weights portfolio.*
 
 ---
 #### Extreme Risk Estimation
