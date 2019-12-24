@@ -6,7 +6,7 @@ This portfolio is a compilation of notebooks for data analysis or for exploratio
 
 # Machine Learning for Finance
 
- Applying Machine-Learning approaches in the area of investment management. 
+ Applying Machine-Learning approaches in the area of investment management.
 
 <img src="images/ML.jpg?raw=true"/>
 
@@ -14,6 +14,11 @@ This portfolio is a compilation of notebooks for data analysis or for exploratio
 #### Forecasting Recessions using Machine Learning algorithms
 [Github](https://github.com/vytautas-fin/Machine-Learning-for-Finance/blob/master/regime_prediction_with_ML.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/vytautas-fin/Machine-Learning-for-Finance/blob/master/regime_prediction_with_ML.ipynb)
 
+Forecasting discrete events. Application of Machine Learning algorithms to predict recessions in US economy using leading macroeconomic indicators.
+
+*Key words: Forecasting Discrete Events, Economic Regimes, Feature Selection, Logistic Regression, XGBoosting, Cross-Validation*
+
+---
 # Python and Statistics for Financial Analysis
 
 Combining python coding and statistical concepts and applying into analysis of financial data.
