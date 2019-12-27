@@ -118,6 +118,7 @@ Extension to a previous notebook, with a focus on two key tasks in statistical i
 # Certificates
 
 - [Advanced Portfolio Construction and Analysis with Python](https://vytautas-fin.github.io/certificates/Advanced Portfolio Construction and Analysis with Python.pdf)
+- [Python and Machine Learning for Asset Management](https://vytautas-fin.github.io/certificates/https://vytautas-fin.github.io/certificates/Advanced Portfolio Construction and Analysis with Python.pdf.pdf)
 - [Data Analyst with Python](https://vytautas-fin.github.io/certificates/Data Analyst with Python.pdf)
 - [Computer Science and Programming using Python](https://vytautas-fin.github.io/certificates/Introduction to Computer Science and Programming using Python.pdf)
 - [Portfolio Construction and Analysis with Python](https://vytautas-fin.github.io/certificates/Introduction to Portfolio Construction and Analysis with Python.pdf)
