@@ -1,12 +1,12 @@
-# Projects
+# Overview
 
-This portfolio is a compilation of notebooks for data analysis or for exploration of machine learning algorithms, with a focus on Financial data. A separate category is for separate projects.
+Welcome! This portfolio is a compilation of Python notebooks for data analysis and for exploration of machine learning algorithms, with a focus on Financial data. Projects are separated by a different theme, category.
 
 ---
 
 # Machine Learning for Finance
 
- Applying Machine-Learning approaches in the area of investment management.
+Applying Machine-Learning approaches in the area of investment management.
 
 <img src="images/ML.jpg?raw=true"/>
 
