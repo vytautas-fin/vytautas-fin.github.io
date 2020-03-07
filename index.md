@@ -124,3 +124,9 @@ Extension to a previous notebook, with a focus on two key tasks in statistical i
 - [Portfolio Construction and Analysis with Python](https://vytautas-fin.github.io/certificates/Introduction to Portfolio Construction and Analysis with Python.pdf)
 
 ---
+
+# Other documents
+
+- [my CV](https://github.com/vytautas-fin/vytautas-fin.github.io/blob/master/documents/CV%20-%20Vytautas%20Tum%C4%97nas.pdf)
+
+---
