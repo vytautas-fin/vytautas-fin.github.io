@@ -127,6 +127,6 @@ Extension to a previous notebook, with a focus on two key tasks in statistical i
 
 # Other documents
 
-- [my CV](https://github.com/vytautas-fin/vytautas-fin.github.io/blob/master/documents/CV%20-%20Vytautas%20Tum%C4%97nas.pdf)
+- [CV](https://vytautas-fin.github.io/documents/CV%20-%20Vytautas%20Tum%C4%97nas.pdf)
 
 ---
