@@ -7,10 +7,12 @@ description: > # your text below (remove <br> elements if you don't need line br
   Passionate about Financial Markets, Trading, and Computational Finance.
 
   <br><br>
-  <a href="https://www.linkedin.com/in/vytautas-tu">Why not get in touch?</a>
+  <a href="https://vytautas-fin.github.io/documents/CV%20-%20Vytautas%20Tumenas.pdf">My CV</a>
 
   <br><br>
-  <a href="https://vytautas-fin.github.io/documents/CV%20-%20Vytautas%20Tumenas.pdf">My CV</a>
+  <a href="https://www.linkedin.com/in/vytautas-tu">Why not get in touch?</a>
+
+
 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
