@@ -1,4 +1,4 @@
-title: Hi! I'm Vytautas Tumenas # your name (or website title) here
+title: Hi! My name is Vytautas # your name (or website title) here
 logo: "/images/personal_resized.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
@@ -11,7 +11,6 @@ description: > # your text below (remove <br> elements if you don't need line br
 
   <br><br>
   <a href="https://www.linkedin.com/in/vytautas-tu">Why not get in touch?</a>
-
 
 
 theme: jekyll-theme-minimal
